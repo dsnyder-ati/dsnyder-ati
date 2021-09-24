@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsnyder-ati
 - 👀 I am working on software for interfacing with ATi receivers.
-- 🌱 I’m currently learning C++, C#, Python...
-- 💞️ I’m looking to collaborate on: improvements to the software.
+- 🖥️ I’m currently using: C++, C#, Python...
+- 📓 I’m looking to collaborate on: improvements to the software.
 - 📫 How to reach me: dsnyder@atitelemetry.com
 
 <!---
